@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 ﻿﻿﻿Git kann tolle Sachen. Lalala
+=======
+﻿Git kann tolle Sachen. Lalala
+>>>>>>> origin/master
 Bitte hier wirklich keinen Blödsinn machen. Ich änder jede Zeile.
 bla bla bla bla. Muhahaha
-Lachskraut. Blublbublub.
+Lachskraut.
 Aber man muss es üben. Git branches!!
 Geheime vierte Zeile! Moep.
 Super Tolles neues Feature, was es nur in meinem Branch gibt
